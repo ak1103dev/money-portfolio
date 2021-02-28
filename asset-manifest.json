@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/money-portfolio/static/js/main.c964f39d.chunk.js",
+    "main.js.map": "/money-portfolio/static/js/main.c964f39d.chunk.js.map",
+    "runtime-main.js": "/money-portfolio/static/js/runtime-main.b2b88c5a.js",
+    "runtime-main.js.map": "/money-portfolio/static/js/runtime-main.b2b88c5a.js.map",
+    "static/js/2.0a404fd2.chunk.js": "/money-portfolio/static/js/2.0a404fd2.chunk.js",
+    "static/js/2.0a404fd2.chunk.js.map": "/money-portfolio/static/js/2.0a404fd2.chunk.js.map",
+    "static/js/3.9afaa307.chunk.js": "/money-portfolio/static/js/3.9afaa307.chunk.js",
+    "static/js/3.9afaa307.chunk.js.map": "/money-portfolio/static/js/3.9afaa307.chunk.js.map",
+    "index.html": "/money-portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/money-portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0a404fd2.chunk.js.LICENSE.txt": "/money-portfolio/static/js/2.0a404fd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b88c5a.js",
+    "static/js/2.0a404fd2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c964f39d.chunk.js"
+  ]
+}
