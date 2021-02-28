@@ -1,8 +1,12 @@
 import React from 'react';
+import Layout from './components/Layout'
+import Portfolio from './pages/Portfolio'
 
 const App = (): JSX.Element => {
   return (
-    <div>Hello</div>
+    <Layout>
+      <Portfolio />
+    </Layout>
   );
 }
 
